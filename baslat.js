@@ -23,4 +23,4 @@ client.on('message', message => {
     }
 });
 
-client.login('HAŞMETLİ TOKENİN'); // desteğiniz önemli eğer example'ı sevdiysen çayı sunucuna al bit.ly/caybot
+client.login('HAŞMETLİ TOKENİN'); // desteğiniz önemli eğer example'ı sevdiysen çayı sunucuna al bit.ly/caybo
